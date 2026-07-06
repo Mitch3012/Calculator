@@ -61,7 +61,7 @@ _Add a screenshot of your calculator here._
 Example:
 
 ```
-<img width="294" height="358" alt="image" src="https://github.com/user-attachments/assets/9c5cfa87-7553-4a75-a2c1-5cf7f3b66b0b" />
+<img src= "CalculatorScreenShot.jpg" alt="Calculator App Screenshot" width:500px>
 
 ```
 
