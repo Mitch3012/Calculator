@@ -56,14 +56,7 @@ calculator-app/
 
 ## 📸 Screenshot
 
-_Add a screenshot of your calculator here._
-
-Example:
-
-```
-<img src= "CalculatorScreenShot.jpg" alt="Calculator App Screenshot" width:500px>
-
-```
+<img src = "CalculatorScreenShoot.jpg">   
 
 ## 🤝 Contributing
 
